@@ -6,7 +6,6 @@ childs:
 ---
 <span class="hidden-text"># Created: 2023-9-29;</span>
 
-Here, I am trying to record some episodes of my life with Miss.C.
-I love Miss.C, and I want to guard and protect her, with my life. 
+Here, I am trying to record some episodes of my life.
 
 ---
