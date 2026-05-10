@@ -7,7 +7,7 @@ title: Original Soundtrack
 ---
 
 <div id="01"><b>Merry Christmas, Mr. Lawrence</b></div>
-<img src="https://github.com/ZaneWiegand/ZaneWiegand.github.io/raw/main/images/Screenshot/20221224.jpeg"/>
+<img src="https://github.com/wenguanzhang/wenguanzhang.github.io/raw/main/images/Screenshot/20221224.jpeg"/>
 
 - 1983, 坂本龙一, 2022.12.24 Night, Sunny
 - A masterpiece of Dr.Sakamoto, a perfect artifact.
